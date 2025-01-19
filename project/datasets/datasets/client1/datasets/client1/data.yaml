@@ -1,0 +1,4 @@
+train: ./datasets/client1/train/images
+val: ./datasets/client1/val/images
+nc: 1  # Number of classes
+names: ["person"]  # Class names
